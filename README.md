@@ -1,4 +1,4 @@
-# Library Management Service
+# Library Management System
 Library Management System Using java Hibernate , Swing Gui
 This library management system project is designed to efficiently manage book lending and user information through a user-friendly graphical interface built using Java Swing and Hibernate. The system supports functionalities such as issuing and returning books, adding new books and users, and viewing all available books and users. The backend is powered by Hibernate for seamless database operations, while a custom-built UI provides clear and accessible interaction. The application aims to enhance user experience in library management by offering real-time updates and a visually appealing interface. This project integrates key concepts from object-oriented programming, database management, and GUI design to deliver a comprehensive solution for library operations.
 
